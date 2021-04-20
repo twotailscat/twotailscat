@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @twotailscat
+-  In love with Swift 
+-  In love with Apple
+-  In love with turn-based RPGs
 
 
 <!---
