@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @twotailscat
--  In love with Swift 
--  In love with Apple
+-  Average Swift Developer
+-  Currently working on arkit app
+
+
 -  In love with turn-based RPGs
 
 
